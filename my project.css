@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.my-projects{
+background-color: grey;
+display: flex;
+border: solid;
+justify-content: center;
+align-items: center;
+margin: auto;
+width: 350px;
+height: 350px;
+border-radius: 100px;
+margin-top: 20px;
+}
+.my-projects>h1{
+text-align: center;
+padding:100px;
+}
+button{
+padding: 10px;
+border: none;
+background-color: blue;
+margin-left: 350px;
+ border-radius: 4px;
+font-size: 16px;
+padding-bottom: 15px;
+color: aliceblue;
+}
+button a{
+    text-decoration: none;
+}
+
+
